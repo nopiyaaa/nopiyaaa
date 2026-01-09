@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi there 👋
 
-<!--
-**nopiyaaa/nopiyaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Novan**, a student currently exploring technology and software development.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **college assignments & mini projects**.
+- 🌱 I’m currently learning **IoT and Web Development**.
+- 🐧 I use **Linux** as my daily driver.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+**Languages and Tools:**
+<p align="left">
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" alt="c++" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="javascript" />
+  <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white" alt="arduino" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="linux" />
+</p>
