@@ -1,29 +1,32 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=25c2a0&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Novan;I'm+an+Informatics+Student;I+Build+Stuff+with+ESP32;I+Break+Code+to+Learn" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=39FF14&center=true&vCenter=true&random=false&width=500&lines=Hi,+I'm+Novan!;Status:+Student+%26+Learner...;Loading+Skills..._%E2%96%88;Explorer+of+IoT+%26+Linux." alt="Typing SVG" />
+  </a>
 
   <br/>
 
-  <h3>🌱 <i>"Learning by doing, fixing by Googling."</i></h3>
-  
   <p>
-    Saya masih dalam tahap belajar dan eksplorasi.<br>
-    Suka ngulik <b>IoT</b>, cobain <b>Linux</b>, dan kadang pusing sama <b>JavaScript</b>.
+     👀 <i>Just a student trying to make things work (and occasionally breaking them).</i>
   </p>
-
-  <br/>
-
-  <img src="https://img.shields.io/badge/Current_Status-Trial_%26_Error_🚀-2ea44f?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Skill_Level-Work_In_Progress_⚙️-orange?style=for-the-badge&logo=gitpod&logoColor=white&labelColor=101010" alt="WIP Badge">
 
   <br/>
   <br/>
+  <br/>
 
-  <p><b>My Current Playground:</b></p>
-  
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" height="30"/>
-  <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=flat-square&logo=pop!_os&logoColor=white" height="30"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nopiyaaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nopiyaaa&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="150" alt="languages graph" />
+
+  <br/>
+  <br/>
+
+  <h3>🛠️ My Experiment Tools</h3>
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" height="25"/>
+  <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=flat-square&logo=pop!_os&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Linux_Terminal-121011?style=flat-square&logo=gnu-bash&logoColor=white" height="25"/>
 
 </div>
 
@@ -31,12 +34,12 @@
 
 ---
 
-### 🧐 What I'm Learning Currently:
-- 🔭 **IoT Projects:** Lagi coba bikin *Smart Home* sederhana pakai ESP32.
-- 💻 **Web Dev:** Sedang mendalami JavaScript buat frontend.
-- 🐧 **Linux:** Daily driving Pop!_OS (dan belajar command line dikit-dikit).
+### ⚡ Current Activity:
+* 🔭 Learning how to connect **ESP32** to the internet without burning it.
+* 🌱 Struggling with **JavaScript** concepts for Web Dev.
+* 🐧 Enjoying the terminal life on **Pop!_OS**.
 
 <br/>
 <div align="center">
-  <sub><i>Maklum kalau kodingannya masih berantakan, namanya juga belajar! ✌️</i></sub>
+  <sub><i>"Failure is just another data point." 🚀</i></sub>
 </div>
